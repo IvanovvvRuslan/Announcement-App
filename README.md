@@ -24,7 +24,7 @@ Full-stack web application for managing announcements - test assignment for Juni
 * xUnit & NSubstitute
 
 ### Frontend
-* React 18
+* React 19
 * React Router
 * Axios
 * Bootstrap
