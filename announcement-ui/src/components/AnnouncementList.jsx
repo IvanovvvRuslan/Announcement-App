@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Card, Button, List, message, Popconfirm } from 'antd';
 import { EditOutlined, DeleteOutlined, EyeOutlined } from '@ant-design/icons';
 import { Link } from 'react-router-dom';
-import { announcementAPI } from '../servi1ces/api.js';
+import { announcementAPI } from '../services/api.js';
 
 const AnnouncementList = () => {
     const [announcements, setAnnouncements] = useState([]);
